@@ -7,7 +7,7 @@ Submitted by: **Karl Kiefer**
 
 **About Me Disco Application** is an app that gives information about who I am and what I do, with an additional button that can be pressed to change the background color.
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
