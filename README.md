@@ -41,7 +41,7 @@ The following **required** functionality is completed:
      so in a customizable way, allowing the user to either share a certain tab, monitor, or just share it all. It's easy to use and has proven to be
      helpful to me multiple times.
 
-### App Brainstorming (Step 4)
+## App Brainstorming (Step 4)
 
   Before learning about CodePath, I was interested in iOS development and creation. I wanted to make an application for gardening, as I enjoy it a lot 
 and felt that a lot of apps already out there either lacked features that would have been helpful for my needs or hid them behind a paywall, so I wanted
